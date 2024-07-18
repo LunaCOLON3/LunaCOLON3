@@ -1,4 +1,4 @@
-## hi, I'm Luna
+## hi, im luna
 
 
 im currently learning Minecraft modding with Quilt
