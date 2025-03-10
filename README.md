@@ -1,6 +1,6 @@
 ## hi, im luna
 
-im currently doing random nix related stuff and working on my website
+im currently doing random nix related stuff and working on [my website](https://lunaisvery.gay)
 
 if you need to contact me DM me on discord @Luna_COLON3
 
